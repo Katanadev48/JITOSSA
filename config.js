@@ -10,20 +10,20 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 //يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
 global.owner = [
-  ['212670941551', 'Omar', true],
+  ['212670941551', 'KATANA', true],
   
 ];
 
 global.suittag = ['212670941551'];
 global.prems = ['212670941551'];
 
-global.packname = 'JITOSSA';
+global.packname = 'KATANA.BOT';
 global.author = '';
-global.wm = 'OMAR';
-global.titulowm = 'JITOSSA';
-global.titulowm2 = `JITOSSA`
-global.igfg = 'JITOSSA';
-global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/ovmar_1_*';
+global.wm = 'KATANA';
+global.titulowm = 'KATANA.BOT';
+global.titulowm2 = `KATANA.BOT`
+global.igfg = 'KATANA.BOT';
+global.wait = '> _جاري معالجة طلبك حاو._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/katana.bot*';
 global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
 global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
 global.rwait = '⏳';
@@ -48,10 +48,10 @@ global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nJITOSSA`;
-global.gt = 'JITOSSA';
-global.mysticbot = 'JITOSSA';
-global.md = 'https://instagram.com/ovmar_1';
-global.mysticbot = 'https://instagram.com/ovmar_1';
+global.gt = 'KATANA.BOT';
+global.mysticbot = 'KATANA.BOT';
+global.md = 'https://www.instagram.com/KATANA.BOT';
+global.mysticbot = 'https://www.instagram.com/KATANA.BOT';
 global.nomorown = '212670941551';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
