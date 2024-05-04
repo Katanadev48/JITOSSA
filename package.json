@@ -1,5 +1,5 @@
 {
-  "name": "JITOSSA",
+  "name": "KATANA.BOT",
   "version": "1.0.0",
   "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/OMARCHARAF1/JITOSSA",
   "author": {
-    "name": "OMAR CHARAF"
+    "name": "KATANA DEV"
   },
   "repository": {
     "type": "git",
